@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Metrocontador</string>
+    <string name="action_settings">Ultimo cálculo</string>
+    <string name="action_acerca_de">Acerca de</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_historic">Historial</string>
+</resources>
